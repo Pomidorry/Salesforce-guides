@@ -26,6 +26,12 @@ You need to have you Salesforce org created (it can be Trailhead Playground, thi
 4. Choose Customer Account Portal template
 ![2p](https://github.com/user-attachments/assets/b7626ad2-e76a-429b-a1b9-29ab121d0fdb)
 
+5. Click "Get Started" button
+![image](https://github.com/user-attachments/assets/814be6ab-bec6-44cd-b470-55faa833430c)
+
+6. Enter site name and URL (optional). URL will look like this https://[myDomainName].develop.my.site.com/portfolio OR https://mycompany-dev-ed.develop.my.site.com/[custom_url_name]. And click "Create". Your site has been created in Preview status, which means that what you have created isn’t in the world yet.
+![2p](https://github.com/user-attachments/assets/457c9ef0-6ca2-4c85-9c32-978b4a56000e)
+
 
 
 
