@@ -20,5 +20,13 @@ You need to have you Salesforce org created (it can be Trailhead Playground, thi
 2. In Quick Find field search and select Digital Experiences (Settings), select Enable Digital Experiences checkbox and click the "Save" button
 ![2p](https://github.com/user-attachments/assets/cfb5f828-01a6-405f-80f4-68647fab5b97)
 
+3. Then select Digital Experiences (All Sites) tab and click "New" to create new site
+![2p](https://github.com/user-attachments/assets/68a7398c-0789-4d46-8edf-a32b5ed6a34d)
+
+4. Choose Customer Account Portal template
+![2p](https://github.com/user-attachments/assets/b7626ad2-e76a-429b-a1b9-29ab121d0fdb)
+
+
+
 
 
