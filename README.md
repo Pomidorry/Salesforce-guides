@@ -27,10 +27,23 @@ You need to have you Salesforce org created (it can be Trailhead Playground, thi
 ![2p](https://github.com/user-attachments/assets/b7626ad2-e76a-429b-a1b9-29ab121d0fdb)
 
 5. Click "Get Started" button
-![image](https://github.com/user-attachments/assets/814be6ab-bec6-44cd-b470-55faa833430c)
+![2p](https://github.com/user-attachments/assets/3f730161-5dee-45b3-a18f-e5c1e36f6c7a)
 
-6. Enter site name and URL (optional). URL will look like this https://[myDomainName].develop.my.site.com/portfolio OR https://mycompany-dev-ed.develop.my.site.com/[custom_url_name]. And click "Create". Your site has been created in Preview status, which means that what you have created isn’t in the world yet.
-![2p](https://github.com/user-attachments/assets/457c9ef0-6ca2-4c85-9c32-978b4a56000e)
+6. Enter site name and URL. URL will look like this https://[myDomainName].develop.my.site.com/portfolio OR https://mycompany-dev-ed.develop.my.site.com/[customurlname]. And click "Create". Your site has been created in Preview status, which means that what you have created isn’t in the world yet.
+![2p](https://github.com/user-attachments/assets/f0510be9-a744-41ed-b00b-159cff816bf9)
+
+7. In "My Workspace" form select "Builder" tool
+![2p](https://github.com/user-attachments/assets/162aa2c4-7fc2-46ee-9795-44b45d087bc1)
+
+8. You can see default picture on your layout. Click it once. You will see the element name (Rich Content Editor)
+![2p](https://github.com/user-attachments/assets/e7fac7eb-4529-4f18-986a-f4e401d7ef16)
+Click it one more time. You'll see tool panel like this
+![2p](https://github.com/user-attachments/assets/0f2ccc18-454a-4dc3-a193-f06fe9e1b4d9)
+Now you can edit your portfolio header at your discretion e.g.
+![2p](https://github.com/user-attachments/assets/9b8765e8-be9b-4e23-9def-a473d2f1cf02)
+
+
+
 
 
 
