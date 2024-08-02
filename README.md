@@ -42,6 +42,18 @@ Click it one more time. You'll see tool panel like this
 Now you can edit your portfolio header at your discretion e.g.
 ![2p](https://github.com/user-attachments/assets/9b8765e8-be9b-4e23-9def-a473d2f1cf02)
 
+9. In "Theme" tab you can customize site basic colors, your logo image, set fonts and play with your site appearance settings 
+![Untitled](https://github.com/user-attachments/assets/683701f1-4470-44cb-965e-64bd72417c43)
+
+10. On the Home tab, click the down arrow next to the Page Properties Gear icon, select "New Page" at the bottom of the menu
+![Untitled](https://github.com/user-attachments/assets/1c7e5273-d870-40da-9059-2499c5625947)
+
+11. Choose "Standard Page"
+![image](https://github.com/user-attachments/assets/433830bf-7bb0-45a7-96b6-4ebc411a6de7)
+
+12. Choose "Flexible Layout" and click "Next"
+![Untitled](https://github.com/user-attachments/assets/b0a4274d-2cd3-4e20-b371-9d8f3ef1e103)
+
 
 
 
