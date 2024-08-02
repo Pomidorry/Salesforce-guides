@@ -68,8 +68,26 @@ Now you can edit your portfolio header at your discretion e.g.
 
 17. Now you can create and add to nav menu structure any page you want (it can be section about your education or experience) the same way
 
-18. Let's come back to home page. You should know that you can do the same thing in the Tile Menu. Just click the Tile Menu area. Select Default Navigation in Default Menu field. Click Edit Default Navigation and you will see form like in 16th step
+18. Let's come back to home page. You should know that you can do the same thing in the Tile Menu. Just click the Tile Menu area. Select Default Navigation in Default Menu field. Click Edit Default Navigation and you will see form like in 16th step. The only difference - in this case you will have navigation links both from Tile Menu and Navigation Menu
 ![Untitled](https://github.com/user-attachments/assets/f5febf1a-e01c-456b-ac24-23882449b265)
+
+19. Remove Record List and Paused Flow clicking Recycle Bin icon if you don't need them. You can remove all components this way
+![Untitled](https://github.com/user-attachments/assets/6ff70942-4081-47b2-8659-1621adcf748e)
+
+20. In this tutorial I'll work with Rich Component Editor from Component tab. You can also add different components for analytics, file managment etc. You can learn more about them via documentation https://help.salesforce.com/s/articleView?id=release-notes.rn_experiences_components.htm&release=244&type=5
+![Untitled](https://github.com/user-attachments/assets/36c92b81-da4b-4c22-aaca-4e3eb8a8b4d0)
+
+21. But now let's move to "About me" page and drag Rich Component Editor to Column 1
+![Untitled](https://github.com/user-attachments/assets/d6bc205e-ef10-49a3-a1e3-89970ac22a33)
+
+> [!NOTE]
+> You also can select any Column Layout from list
+![Untitled](https://github.com/user-attachments/assets/1f4577db-761d-4a55-aabf-491dba946515)
+
+
+
+
+
 
 
 
