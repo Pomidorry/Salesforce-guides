@@ -54,6 +54,18 @@ Now you can edit your portfolio header at your discretion e.g.
 12. Choose "Flexible Layout" and click "Next"
 ![Untitled](https://github.com/user-attachments/assets/b0a4274d-2cd3-4e20-b371-9d8f3ef1e103)
 
+13. Enter page name and then click "Create" to add new page
+![Untitled](https://github.com/user-attachments/assets/d3f5723c-f591-4cb8-8406-4b17e90f3892)
+
+14. Now you can find your brand new page in page search
+<br>![Untitled](https://github.com/user-attachments/assets/29c3b34d-52b4-4044-be00-f8eeeb3e75f4)</br>
+
+15. But now you are on just created page. Let's edit your nav menu so you navigate your site quickly. Click you navigation menu and then click "Edit Default Navigation" button in opened form
+![Untitled](https://github.com/user-attachments/assets/7e285808-04ac-42b0-9b2f-e15c4ac049cc)
+
+
+
+
 
 
 
