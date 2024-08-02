@@ -63,6 +63,17 @@ Now you can edit your portfolio header at your discretion e.g.
 15. But now you are on just created page. Let's edit your nav menu so you navigate your site quickly. Click you navigation menu and then click "Edit Default Navigation" button in opened form
 ![Untitled](https://github.com/user-attachments/assets/7e285808-04ac-42b0-9b2f-e15c4ac049cc)
 
+16. Click "Add Menu Item" button. Then enter page name, select "Site Page" type, and select "Publicaly available" checkbox. You can remove elements from the menu structure (like on 5th action on the screenshot)
+![Untitled](https://github.com/user-attachments/assets/1bd5f06f-37cd-47bf-8e8d-9a0e042caf61)
+
+17. Now you can create and add to nav menu structure any page you want (it can be section about your education or experience) the same way
+
+18. Let's come back to home page. You should know that you can do the same thing in the Tile Menu. Just click the Tile Menu area. Select Default Navigation in Default Menu field. Click Edit Default Navigation and you will see form like in 16th step
+![Untitled](https://github.com/user-attachments/assets/f5febf1a-e01c-456b-ac24-23882449b265)
+
+
+
+
 
 
 
