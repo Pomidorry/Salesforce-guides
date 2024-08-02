@@ -1,17 +1,17 @@
-# Salesforce portfolio guide 👨‍💻
+# Salesforce portfolio guide :shipit:
 
 ## Short overview 📜
-Here you can a clear step-by-step guide with detailed explanation and screenshot to each step how to create personal web site to showcase your accomplishments on Salesforce
+> Here you can a clear step-by-step guide with detailed explanation and screenshot to each step how to create personal web site to showcase your accomplishments on Salesforce
 
 ## Why implement this project ❔
-- Additional opportunity to practice your designing skills
-- New item for pet-project portfolio for beginner Salesforce enjoyers
-- Non-trivial CV representation
+- [x] Additional opportunity to practice your designing skills
+- [x] New item for pet-project portfolio for beginner Salesforce enjoyers
+- [x] Non-trivial CV representation
 
 ## Let's start 🏁
 
 ### Prerequisite:
-You need to have you Salesforce org created (it can be **Trailhead Playground**, this one is free 💸)
+> You need to have you Salesforce org created (it can be **Trailhead Playground**, this one is free 💸)
 
 ### Let's move to main steps
 1. Launch your (in my case) **Trailhead Playground**, find gear icon and go to Service Setup
@@ -68,13 +68,16 @@ Now you can edit your portfolio header at your discretion e.g.
 
 17. Now you can create and add to nav menu structure any page you want (it can be section about your education or experience) the same way
 
-18. Let's come back to home page. You should know that you can do the same thing in the **Tile Menu**. Just click the **Tile Menu** area. Select **Default Navigation** in **Default Menu** field. Click **Edit Default Navigation** and you will see form like in 16th step. The only difference - in this case you will have navigation links both from **Tile Menu** and **Navigation Menu**
+18. Let's come back to home page. You should know that you can do the same thing in the **Tile Menu**. Just click the **Tile Menu** area. Select **Default Navigation** in **Default Menu** field. Click **Edit Default Navigation** and you will see form like in 16th step. 
 ![Untitled](https://github.com/user-attachments/assets/f5febf1a-e01c-456b-ac24-23882449b265)
+
+> [!NOTE]
+> The only difference between these two methods - in the second case you will have navigation links both from **Tile Menu** and **Navigation Menu**
 
 19. Remove **Record List** and **Paused Flow** clicking **Recycle Bin** icon if you don't need them. You can remove all components this way
 ![Untitled](https://github.com/user-attachments/assets/6ff70942-4081-47b2-8659-1621adcf748e)
 
-20. In this tutorial I'll work with **Rich Component Editor** from **Component** tab. You can also add different components for analytics, file managment etc. You can learn more about them via documentation https://help.salesforce.com/s/articleView?id=release-notes.rn_experiences_components.htm&release=244&type=5
+20. In this tutorial I'll work with **Rich Component Editor** from **Component** tab. You can also add different components for analytics, file managment etc. You can learn more about them via [Components in Experience Builder](https://help.salesforce.com/s/articleView?id=release-notes.rn_experiences_components.htm&release=244&type=5) article
 <br>![Untitled](https://github.com/user-attachments/assets/36c92b81-da4b-4c22-aaca-4e3eb8a8b4d0)</br>
 
 21. But now let's move to **About me** page and drag **Rich Component Editor** to Column 1
@@ -104,8 +107,8 @@ Now you can edit your portfolio header at your discretion e.g.
 
 Your URL should look similar to this: https://brave-wolf-ksa17a-dev-ed.trailblaze.my.site.com/Portfolio/s/
 
-## My result
-You can see it here. I'm sure, you can create much better design but it is just a sample
+## My result 👨‍💻
+> You can see it [here](https://empathetic-bear-q8q2h2-dev-ed.trailblaze.my.site.com/s/). I'm sure, you can create much better design but it is just a sample :trollface:
 
-## Source
-Tutorial is based on Trailhead project https://trailhead.salesforce.com/content/learn/projects/build-your-personal-portfolio-on-salesforce
+## Source :basecamp:
+> Tutorial is based on [Trailhead project](https://trailhead.salesforce.com/content/learn/projects/build-your-personal-portfolio-on-salesforce)
