@@ -93,7 +93,7 @@ Now you can edit your portfolio header at your discretion e.g.
 22. Fill your page sections with information about you. Here you can see sample of section
 ![image](https://github.com/user-attachments/assets/6308ddf4-75cf-4664-a392-05a8a698d351)
 
-23. You can also highlight word (or colocation) and click link button to make hyperlink. Can be userd to add you social media links
+23. You can also highlight word (or colocation) and click link button to make hyperlink. Can be used to add you social media links
 ![Untitled](https://github.com/user-attachments/assets/48c7d962-56f2-41f4-8729-9eccb0a0180a)
 
 24. Let's look at our result. In the top bar you can see **Preview** button. Ckick it to see how user will see your site
