@@ -1,4 +1,4 @@
-# Create HTTP Callouts and sending API response email with Flow Builder
+00# Create HTTP Callouts and sending API response email with Flow Builder
 
 ## Short description
 This project can be useful for beginners. In this tutorial you will learn how to work with Salesforce flows and how to implement API to you flow
@@ -46,7 +46,8 @@ You need to have your Salesforce org created. I'll use Trailhead Playgroung Org.
 13. Move the **Animals API External** option from **Available External Credential Principals** to **Enabled External Credential Principals** and click **Save**
 <br>![image](https://github.com/user-attachments/assets/107b0bcc-5e7d-46a6-9bea-86a72e6cacbe)</br>
 
-14. Now let's go to flow creating our flow
+14. Now let's go to flow creating our flow. In **Quick Find** search and select **Flows** option. Then click **New Flow**
+![image](https://github.com/user-attachments/assets/7d7069c8-60e8-4518-8932-ef62e8638862)
 
 ## Source
 Inspired and modified idea from Trailhead [project](https://trailhead.salesforce.com/content/learn/projects/quick-start-create-http-callouts-with-flow-builder)
