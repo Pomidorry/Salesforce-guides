@@ -1,4 +1,4 @@
-00# Create HTTP Callouts and sending API response email with Flow Builder
+# Create HTTP Callouts and sending API response email with Flow Builder
 
 ## Short description
 This project can be useful for beginners. In this tutorial you will learn how to work with Salesforce flows and how to implement API to you flow
